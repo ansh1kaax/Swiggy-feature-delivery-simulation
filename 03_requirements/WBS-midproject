@@ -1,0 +1,33 @@
+# Mid-Project Work Breakdown Structure (WBS)
+
+## Sprint 2 Focus – Feature Requirement Drafting
+
+### 1. DARK MODE
+1.1 Finalize feature scope  
+1.2 Draft requirement document  
+1.3 Define acceptance criteria  
+1.4 Confirm toggle logic (manual/system-based)  
+1.5 Design Figma view (to be simulated)  
+1.6 Validate expected UI behavior  
+
+### 2. ML JOKE GENERATOR  
+2.1 Finalize user goal & intent  
+2.2 Draft feature requirement  
+2.3 Define input/output logic (ML side)  
+2.4 Brainstorm sample joke types  
+2.5 Outline possible personalization ideas  
+2.6 Draft mock API structure  
+
+### 3. MINI GAMES MODULE  
+3.1 Define gameplay logic  
+3.2 Draft requirement document  
+3.3 Create sample game mechanics (Spin, TicTacToe)  
+3.4 Plan reward-to-swagpoints logic  
+3.5 Draft mock JSON API  
+3.6 Define success metrics
+
+## Deliverables
+- Feature requirement docs (x3)
+- JSON structure overview (Joke + Game)
+- Acceptance Criteria (x3)
+- Mid-project WBS (this doc)
