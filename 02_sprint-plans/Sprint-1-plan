@@ -1,12 +1,12 @@
-# 🏁 Sprint 1: Foundation Setup  
-📆 Duration: Jun 30 – Jul 6, 2025
+#  Sprint 1: Foundation Setup  
+Duration: Jun 30 – Jul 6, 2025
 
-## 🎯 Sprint Goal
+## Sprint Goal
 Set up initial documentation, plan resources, and establish tools/workflows for the feature simulation project.
 
 ---
 
-## 📋 Deliverables
+##  Deliverables
 - Project Charter (Confluence & GitHub)
 - Gantt Chart (MS Project export)
 - Trello Board Setup
@@ -16,7 +16,7 @@ Set up initial documentation, plan resources, and establish tools/workflows for 
 
 ---
 
-## 🧑‍💻 Team & Roles (Simulated)
+## Team & Roles (Simulated)
 | Role             | Name      |
 |------------------|-----------|
 | Project Manager  | Anshika   |
@@ -27,7 +27,7 @@ Set up initial documentation, plan resources, and establish tools/workflows for 
 
 ---
 
-## ✅ Key Tasks
+## Key Tasks
 
 | ID     | Task                                  | Tool            | Owner     | Due Date |
 |--------|---------------------------------------|------------------|-----------|----------|
@@ -41,15 +41,15 @@ Set up initial documentation, plan resources, and establish tools/workflows for 
 
 ---
 
-## 🧠 Agile Practices
-- 📅 Stand-ups: Optional comments on Trello every morning
-- 📌 Sprint Planning: Jun 30
-- 📊 Sprint Review: Jul 6
-- 💬 Sprint Retrospective: Jul 6 (self-reflection doc)
+##  Agile Practices
+-  Stand-ups: Optional comments on Trello every morning
+-  Sprint Planning: Jun 30
+-  Sprint Review: Jul 6
+-  Sprint Retrospective: Jul 6 (self-reflection doc)
 
 ---
 
-## ⚠️ Risks
+##  Risks
 
 | ID   | Risk Description                                  | Category    | Mitigation              |
 |------|---------------------------------------------------|-------------|--------------------------|
@@ -59,12 +59,12 @@ Set up initial documentation, plan resources, and establish tools/workflows for 
 
 ---
 
-## ✅ Definition of Done
+## Definition of Done
 - Charter, Trello, CI/CD plan uploaded to repo
 - Screenshot of Trello board placed in `07_assets/`
 - Sprint 1 closed on July 6
 
 ---
 
-## 📌 Notes
+## Notes
 - No external team members involved. This is a solo, simulated exercise.
