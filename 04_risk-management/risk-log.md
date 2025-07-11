@@ -1,4 +1,4 @@
-# 📉 Initial Risk Log – Sprint 1
+#  Initial Risk Log – Sprint 1
 
 | ID   | Risk Description                            | Impact | Likelihood | Action |
 |------|---------------------------------------------|--------|------------|--------|
