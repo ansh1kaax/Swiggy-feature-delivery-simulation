@@ -1,4 +1,4 @@
-# ⚙️ CI/CD Outline (Sprint 1)
+#  CI/CD Outline (Sprint 1)
 
 ## Objective
 Simulate a basic CI/CD pipeline setup using GitHub Actions for task testing, documentation deployment, and future automation.
