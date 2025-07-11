@@ -1,8 +1,8 @@
-# ✅ Success Metrics – Sprint 1
+#  Success Metrics – Sprint 1
 
 Sprint 1 was focused on setup, planning, and documentation. These are the key metrics to measure success:
 
-## 📊 Quantitative Metrics
+##  Quantitative Metrics
 
 | Metric                             | Target / Goal                        |
 |-----------------------------------|--------------------------------------|
@@ -13,14 +13,14 @@ Sprint 1 was focused on setup, planning, and documentation. These are the key me
 | CI/CD Draft Outline               | 1 simulated GitHub Actions plan       |
 | Risk Log Initiation               | At least 3 relevant risks logged      |
 
-## 📈 Qualitative Metrics
+##  Qualitative Metrics
 
 - Clear and readable markdown formatting in all documents
 - Agile practices like standups and retrospectives followed (self-managed)
 - Accurate timelines and realistic simulation of real-world processes
 - GitHub repo is well-organized and navigable
 
-## 📌 Definition of Done for Sprint 1
+##  Definition of Done for Sprint 1
 - All files documented
 - Trello snapshot added in `/07_assets/`
 - No broken links, missing folders, or blank docs
